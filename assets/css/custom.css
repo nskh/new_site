@@ -41,7 +41,7 @@ a:hover {
 }
 
 blockquote {
-  background-color:#e6f3ff;
+  /*background-color:#e6f3ff;*/
   border-left:solid #0072c1;
   font-size:inherit;
 }
@@ -112,7 +112,7 @@ table#calendar td {
 }
 
 table#calendar tr:not(:first-child) {
-  background-color: #bad0f7;
+  background-color: #f2f3f7;
 }
 
 table#calendar td.weeknum {
@@ -126,15 +126,15 @@ table#calendar td.reading ul {
 }
 
 table#calendar td.even {
-  background-color:#F0FFFF;
+  background-color: #e3e6ef;
 }
 
 table#calendar tr.even {
-  background-color: #F0FFFF;
+  background-color: #e3e6ef;
 }
 
 table#calendar tr:hover td:not(.weeknum) {
-  background-color:#B0C4DE;
+  background-color: #ced0e0;
 }
 
 .description {
@@ -149,7 +149,7 @@ table#calendar tr:hover td:not(.weeknum) {
 /* Navbar colors */
 
 .navbar-default {
-  background-color: #8db0f2;
+  background-color: #92a6cc;
   border-color: #0085e1;
 }
 .navbar-default .navbar-brand {
@@ -204,7 +204,7 @@ table#calendar tr:hover td:not(.weeknum) {
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #ffffff;
-    background-color: #0085e1;
+    /*background-color: #0085e1;*/
   }
 }
 
